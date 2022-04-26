@@ -1,6 +1,6 @@
 <div align='center'>
     <h2>Simple project done to start in Nuxt 3</h3>
-    <img src='https://i.imgur.com/io5o47a.png' height='500px' width'500px' target="_blank"><br>
+    <img src='https://i.imgur.com/io5o47a.png' width'500px' target="_blank"><br>
 </div>
 
 # Nuxt 3 Minimal Starter
